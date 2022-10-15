@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17194" started-at="2022-10-12T00:43:10Z" finished-at="2022-10-12T00:43:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17194" started-at="2022-10-12T00:43:10Z" finished-at="2022-10-12T00:43:28Z">
+      <class name="variousConcepts.InpuStreamExmpl">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.InpuStreamExmpl@7d417077]" name="readConfig" is-config="true" duration-ms="28" started-at="2022-10-11T19:43:10Z" finished-at="2022-10-11T19:43:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:variousConcepts.InpuStreamExmpl@7d417077]" name="launchBrowser" is-config="true" duration-ms="8052" started-at="2022-10-11T19:43:10Z" finished-at="2022-10-11T19:43:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:variousConcepts.InpuStreamExmpl@7d417077]" name="addCustomer" duration-ms="9064" started-at="2022-10-11T19:43:19Z" finished-at="2022-10-11T19:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- variousConcepts.InpuStreamExmpl -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
